@@ -1,1 +1,1 @@
-web: php artisan serve
+web: npm install && npm run dev
